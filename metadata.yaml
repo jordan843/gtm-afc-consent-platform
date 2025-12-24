@@ -1,0 +1,12 @@
+name: afc-consent-management-platform
+displayName: AfC - Consent Management Platform
+description: GDPR-compliant consent banner with full Google Consent Mode v2, IAB TCF 2.2 support and region-based configuration
+version: 1
+author:
+  name: Ads for Change
+  url: https://adsforchange.co
+categories:
+  - CONSENT
+brand:
+  name: Ads for Change
+  url: https://adsforchange.co
