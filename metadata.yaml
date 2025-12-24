@@ -1,8 +1,8 @@
 homepage: "https://adsforchange.co"
-documentation: "https://adsforchange.co/agence"
+documentation: "https://adsforchange.co/documentation"  # Ou un lien vers ta doc, même si temporaire
 versions:
-sha: 440b703
-changeNotes: Initial release - Full GDPR support with Google Consent Mode v2, IAB TCF 2.2 compatibility, region-specific defaults and consent cookie management
+  - sha: TON_SHA_ICI  # Remplace par le vrai SHA du commit avec template.tpl (ex. 9d8970a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8)
+    changeNotes: Initial release - Full GDPR support with Google Consent Mode v2, IAB TCF 2.2 compatibility, region-specific defaults and consent cookie management
 name: afc-consent-management-platform
 displayName: AfC - Consent Management Platform
 description: GDPR-compliant consent banner with full Google Consent Mode v2, IAB TCF 2.2 support and region-based configuration
@@ -15,5 +15,5 @@ brand:
   name: Ads for Change
   url: https://adsforchange.co
 versions:
-sha: 440b703
-changeNotes: Initial release - Full GDPR support with Google Consent Mode v2, IAB TCF 2.2, region-specific defaults and consent cookie management
+  - sha: TON_SHA_ICI  # Remplace par le vrai SHA (ex. 9d8970a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8)
+    changeNotes: Initial release - Full GDPR support with Google Consent Mode v2, IAB TCF 2.2, region-specific defaults and consent cookie management
