@@ -10,5 +10,5 @@ brand:
   name: Ads for Change
   url: https://adsforchange.co
 versions:
-  - sha: REMPLACE_PAR_LE_SHA_DU_COMMIT  # <-- Obligatoire : le hash du commit avec template.tpl
-    changeNotes: Initial release of AfC Consent Management Platform - Full GDPR support with Google Consent Mode v2 and IAB TCF 2.2
+  - sha: TON_SHA_ICI  # Remplace par le vrai SHA (ex. 9d8970a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8)
+    changeNotes: Initial release - Full GDPR support with Google Consent Mode v2, IAB TCF 2.2, region-specific defaults and consent cookie management
