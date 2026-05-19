@@ -1,7 +1,7 @@
 homepage: https://adsforchange.co
 documentation: https://github.com/jordan843/gtm-afc-consent-platform/blob/main/README.md
 versions:
-  - sha: 5e1c2c0f209598ef479e0a29f6b9bc6d93b16954
+  - sha: 71e43140ef0bea0a612e33e34b472594b1d9a971
     changeNotes: Initial release - Full GDPR support with Google Consent Mode v2, IAB TCF 2.2 compatibility, region-specific defaults and consent cookie management
 name: afc-consent-management-platform
 displayName: AfC - Consent Management Platform
